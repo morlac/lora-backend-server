@@ -1,3 +1,8 @@
+influxSettings.json
+test_headers.json
+test_post-body-mapper.json
+lora-backend-server.service
+
 # Logs
 logs
 *.log
