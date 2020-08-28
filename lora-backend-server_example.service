@@ -1,0 +1,14 @@
+[Unit]
+Description=LoraWAN Backend
+After=network.target network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=<fill-me-in>
+ExecStart=/usr/bin/npm start
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
+

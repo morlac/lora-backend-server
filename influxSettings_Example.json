@@ -1,0 +1,16 @@
+{
+	"ttnmapper": {
+		"host": "<fill-me-in>",
+		"database": "<fill-me-in>",
+		"username": "<fill-me-in>",
+		"password": "<fill-me-in>"
+	},
+
+	"plantguard": {
+		"host": "<fill-me-in>",
+		"database": "<fill-me-in>",
+		"username": "<fill-me-in>",
+		"password": "<fill-me-in>"
+	} 
+}
+
